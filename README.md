@@ -70,7 +70,7 @@ The architecture prioritizes modularity, data-driven design, and maintainability
 
 ## Demo
 
-### 🃏 Card Logic
+### Card Logic
 
 <p align="center">
   <img src="demo/Card-Logics.gif" width="800">
@@ -80,7 +80,7 @@ Implementation of core card gameplay mechanics including card activation, turn p
 
 ---
 
-### 💬 Tooltip UI
+### Tooltip UI
 
 <p align="center">
   <img src="demo/Tooltip-UI.gif" width="800">
@@ -90,7 +90,7 @@ Dynamic tooltip system displaying card information, keywords, and item descripti
 
 ---
 
-### 🎒 Inventory System
+### Inventory System
 
 <p align="center">
   <img src="demo/Inventory-System.gif" width="800">
@@ -100,7 +100,7 @@ Grid-based inventory with drag-and-drop interactions, item swapping, equipment m
 
 ---
 
-### 🔨 Card Crafting
+### Card Crafting
 
 <p align="center">
   <img src="demo/Card-Crafting.gif" width="800">
